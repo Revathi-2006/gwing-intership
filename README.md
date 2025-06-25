@@ -9,7 +9,7 @@
 - Responsive navbar with toggle button for mobile
 - Smooth scroll for section navigation
 
-  ### ✅ Week 2: Footer section
+### ✅ Week 2: Footer section
 - Clean, dark-themed footer
 - Social media icons (Facebook, Instagram, LinkedIn)
 - Responsive layout
