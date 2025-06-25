@@ -1,6 +1,9 @@
 # gwing-intership
 
-## 📌 Features Included
+## 🌐 Live Preview
+
+🖥️ [Click to View Live Website]: https://revathi-2006.github.io/gwing-intership/
+## 📌 Features Include
 
 ### ✅ Week 1: Navigation Bar
 - Responsive navbar with toggle button for mobile
