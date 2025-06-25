@@ -9,20 +9,22 @@
 - Responsive navbar with toggle button for mobile
 - Smooth scroll for section navigation
 
-### ✅ Week 2: Image Slider
+  ### ✅ Week 2: Footer section
+- Clean, dark-themed footer
+- Social media icons (Facebook, Instagram, LinkedIn)
+- Responsive layout
+
+### ✅ Week 3: Image Slider
 - Automatic and manual image slider
 - "Next" and "Previous" buttons
 - Slide counter overlay
 
-### ✅ Week 3: Contact Us Form
+### ✅ Week 4: Contact Us Form
 - Form with **name, email, message**
 - Simple validation
 - Sends email using [EmailJS](https://www.emailjs.com/)
 
-### ✅ Week 4: Footer
-- Clean, dark-themed footer
-- Social media icons (Facebook, Instagram, LinkedIn)
-- Responsive layout
+
 
 ---
 
