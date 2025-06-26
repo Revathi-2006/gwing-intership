@@ -37,9 +37,8 @@ LinkedIn Profile Link: www.linkedin.com/in/revathi-v-2121582b9
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
 - **EmailJS** (for contact form)
-- **FontAwesome (for icons - optional)**
 
 ---
 
