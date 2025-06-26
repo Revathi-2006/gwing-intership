@@ -3,6 +3,10 @@
 ## 🌐 Live Preview
 
 🖥️ [Click to View Live Website]: https://revathi-2006.github.io/gwing-intership/
+
+##
+LinkedIn Profile Link: www.linkedin.com/in/revathi-v-2121582b9
+
 ## 📌 Features Include
 
 ### ✅ Week 1: Navigation Bar
